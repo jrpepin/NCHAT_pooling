@@ -1,6 +1,12 @@
 ---
-title: "Financial Integration Variation Among Same-Gender and Mixed-Gender Couples"
-author: "Joanna R. Pepin, University of Toronto \n Chandler Fairbanks, University at Buffalo (SUNY)"
+title: "Financial Integration: <br> Same-gender and <br> Mixed-gender Couples"
+author: 
+  - name: "Joanna R. Pepin"
+    affiliations: 
+     - "*University of Toronto*"
+  - name: "Chandler Fairbanks" 
+    affiliations: 
+     - "*University at Buffalo (SUNY)*"
 format: 
   revealjs:
     controls: true
@@ -12,6 +18,14 @@ filters:
 editor: 
   markdown: 
     wrap: sentence
+include-in-header:
+  - text: |
+      <style>
+      #title-slide .title {
+        font-size: 2.00em;
+        color: #E74C3C;
+      }
+      </style>
 ---
 
 ```{r warning = FALSE, error = FALSE, message = FALSE}
@@ -26,7 +40,6 @@ c_palette <- c("#18BC9C",
                "#F39C12",
                "#E74C3C")
 ```
-
 
 # Figure 01 title goes here
 
