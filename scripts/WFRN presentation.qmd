@@ -1,0 +1,41 @@
+---
+title: "Financial Integration Variation Among Same-Gender and Mixed-Gender Couples"
+author: "Joanna R. Pepin, University of Toronto \n Chandler Fairbanks, University at Buffalo (SUNY)"
+format: 
+  revealjs:
+    controls: true
+    theme: [default, custom.scss]
+    slide-number: c
+embed-resources: true
+filters:
+    - openlinksinnewpage
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+```{r warning = FALSE, error = FALSE, message = FALSE}
+# Loading libraries
+library(tidyverse)
+library(gghighlight)
+library(scales)
+
+# Define color palette
+c_palette <- c("#18BC9C",
+               "#3498DB",
+               "#F39C12",
+               "#E74C3C")
+```
+
+
+# Figure 01 title goes here
+
+![](../images/fig01.png){fig-align="center" width="100%"}
+
+# Figure 02 title goes here
+
+![](../images/fig02.png){fig-align="center" width="100%"}
+
+# Figure 03 title goes here
+
+![](../images/fig03.png){fig-align="center" width="100%"}
