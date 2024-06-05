@@ -1,10 +1,10 @@
 ---
 title: "Financial Integration: <br> Same-gender and <br> Mixed-gender Couples"
 author: 
-  - name: "Joanna R. Pepin"
+  - name: "<br> Joanna R. Pepin"
     affiliations: 
      - "*University of Toronto*"
-  - name: "Chandler Fairbanks" 
+  - name: "<br> Chandler Fairbanks" 
     affiliations: 
      - "*University at Buffalo (SUNY)*"
 format: 
@@ -23,7 +23,6 @@ include-in-header:
       <style>
       #title-slide .title {
         font-size: 2.00em;
-        color: #E74C3C;
       }
       </style>
 ---
@@ -41,14 +40,114 @@ c_palette <- c("#18BC9C",
                "#E74C3C")
 ```
 
-# Figure 01 title goes here
+#  {#slide1-id data-menu-title="Background"}
+
+<h3>A greater proportion of married mixed-gender couples pool money than married same-gender couples</h3>
+
+![](../images/waffle.png){fig-align="center" width="100%"}
+
+::: aside
+doi: [10.1177/23780231221138719](https://journals.sagepub.com/doi/full/10.1177/23780231221138719)
+:::
+
+::: {.content-visible when-profile="speaker"}
+::: notes
+Married mixed-gender couples are more likely to report they ‘put all of their money together’ compared with married same-gender couples.
+:::
+:::
+
+## Research Questions
+
+::: {.incremental .highlight-last}
+1.  Is the gap in financial integration accounted for by variation in demographic characteristics?\
+2.  Do the associations between integration and relationship stability/quality vary by the gender composition of the couple?\
+:::
+
+# NCHAT {#slide3-id data-menu-title="Data"}
+
+National Couples’ Health and Time Study 2020-2021
+
+<hr>
+
+*a nationally representative sample of U.S. couples aged 20–60*\
+[N = 3,348]{style="color: #E74C3C;"}
+
+<br>\
+<br>\
+<br>
+
+::: aside
+doi: [10.3886/ICPSR38417.v6](https://www.icpsr.umich.edu/web/DSDR/studies/38417)
+:::
+
+## Key Variables
+
+::: {.incremental .highlight-last}
+-   **Dependent Variable**: <br> (0) Not pooling all money and (1) Pooling system
+
+-   **Couple Type**: <br> (1) Man with woman, (2) Woman with man, (3) Man with man, and (4) Woman with woman
+
+-   **Marital Status**: <br> (1) Cohabiting (2) Married\
+:::
+
+## Relationship Quality Measures
+
+::: columns
+
+::: {.column width="33%"}
+**Instability**\
+
+::: {style="font-size: 70%;"}
+-   feeling trapped\
+-   think will eventually breakup\
+-   thought relationship is in trouble
+:::
+:::
+
+::: {.column width="33%"}
+**Dissatisfaction**\
+
+::: {style="font-size: 70%;"}  
+-   happiness with relationship\
+-   warm and comfortable relationship\
+-   relationship is rewarding\
+-   relationship satisfaction
+:::
+:::
+
+::: {.column width="33%"}  
+**Negativity**  
+
+::: {style="font-size: 70%;"}
+-   little arguments escalated\
+-   partner criticism\
+-   partner viewed words or actions negatively\
+-   one of us withdrew when argued
+:::
+:::
+
+:::
+
+::: {.content-visible when-profile="speaker"}
+::: notes
+The test of the interitem correlations for each of the three scales showed a Cronbach’s α level greater than .82.
+:::
+:::
+
+# Findings
+
+## Descriptive statistics
+
+a table?
+
+## Figure 01 title goes here
 
 ![](../images/fig01.png){fig-align="center" width="100%"}
 
-# Figure 02 title goes here
+## Figure 02 title goes here
 
 ![](../images/fig02.png){fig-align="center" width="100%"}
 
-# Figure 03 title goes here
+## Figure 03 title goes here
 
 ![](../images/fig03.png){fig-align="center" width="100%"}
