@@ -25,6 +25,10 @@ include-in-header:
         font-size: 2.00em;
       }
       </style>
+title-slide-attributes: 
+      data-background-image: ../images/qr-code.png
+      data-background-size: 200px
+      data-background-position: "95% 95%"
 ---
 
 ```{r warning = FALSE, error = FALSE, message = FALSE}
