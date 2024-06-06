@@ -68,7 +68,7 @@ Pooling also seems to contribute to relationship quality couples who share joint
 
 <h3>A greater proportion of married mixed-gender couples pool money than married same-gender couples</h3>
 
-![](../images/waffle.png){fig-align="center" width="100%"}
+[![](../images/waffle.png){fig-align="center" width="100%"}](https://journals.sagepub.com/doi/full/10.1177/23780231221138719)
 
 ::: aside
 doi: [10.1177/23780231221138719](https://journals.sagepub.com/doi/full/10.1177/23780231221138719)
@@ -225,7 +225,7 @@ Following figures show predicted probabilities of pooling from interaction effec
 
 <h3>Married women-women couples less likely to pool all money than mixed-gender couples</h3>
 
-![](../images/fig01.png){fig-align="center" width="100%"}
+[![](../images/fig01.png){fig-align="center" width="100%"}](https://github.com/jrpepin/NCHAT_pooling/blob/main/images/fig01.png)
 
 ::: {.content-visible when-profile="speaker"}
 ::: notes
@@ -239,7 +239,7 @@ As shown in this figure, woman-woman married couples are less likely than mixed-
 
 *at average levels of \_\_\_\_\_\_\_\_\_\_*
 
-![](../images/fig02.png){fig-align="center" width="100%"}
+[![](../images/fig02.png){fig-align="center" width="100%"}](https://github.com/jrpepin/NCHAT_pooling/blob/main/images/fig02.png)
 
 ::: {.content-visible when-profile="speaker"}
 ::: notes
@@ -254,7 +254,7 @@ Let's take a look at variation in slopes.
 
 <h3>Variation in probability of pooling by couple-type and relationship scales</h3>
 
-![](../images/fig03.png){fig-align="center" width="100%"}
+[![](../images/fig03.png){fig-align="center" width="100%"}](https://github.com/jrpepin/NCHAT_pooling/blob/main/images/fig03.png)
 
 ::: {.content-visible when-profile="speaker"}
 ::: notes
