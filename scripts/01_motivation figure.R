@@ -310,9 +310,9 @@ p1 # view the plot
 
 ## CREATE THE COUPLE-TYPE PLOT
 # Define color palette
-c_palette <- c("#18BC9C",
+c_palette <- c("#F39C12",
+               "#18BC9C",
                "#3498DB",
-               "#F39C12",
                "#E74C3C")
 
 
