@@ -12,8 +12,6 @@ format:
     controls: true
     theme: [default, custom.scss]
     slide-number: c
-revealjs-plugins:
-  - pointer
 embed-resources: true
 filters:
     - openlinksinnewpage
@@ -60,9 +58,14 @@ c_palette <- c("#18BC9C",
 
 ::: {.content-visible when-profile="speaker"}
 ::: notes
-theory: investment model of commitment -- desire to stay in a relationship is reflected in individuals’ investments in the relationship Studies show couples with greater relationship certainty were more likely to pool their incomes, regardless of their marital status.
-
-Pooling also seems to contribute to relationship quality couples who share joint bank accounts, compared to those who do not, report higher quality relationships reduce relationship conflict related to material hardship decreases transaction costs
+Drawing on investment model of commitment theory\
+[**\<click\>**]{style="color: #E74C3C;"}\
+- desire to stay in a relationship is reflected in individuals’ investments in the relationship\
+- Studies show couples with greater relationship certainty were more likely to pool their incomes, regardless of their marital status.\
+[**\<click\>**]{style="color: #E74C3C;"}\
+Pooling also seems to contribute to relationship quality\
+- couples who share joint bank accounts, compared to those who do not, report higher quality relationships\
+- theory: reduce relationship conflict related to material hardship decreases transaction costs
 :::
 :::
 
@@ -79,6 +82,8 @@ doi: [10.1177/23780231221138719](https://journals.sagepub.com/doi/full/10.1177/2
 ::: {.content-visible when-profile="speaker"}
 ::: notes
 Married mixed-gender couples are more likely to report they ‘put all of their money together’ compared with married same-gender couples.
+
+Brings up some questions about potential differences in stability and quality of same and mixed gender couples.
 :::
 :::
 
@@ -93,13 +98,17 @@ Married mixed-gender couples are more likely to report they ‘put all of their 
 
 ::: {.content-visible when-profile="speaker"}
 ::: notes
-Descriptive statistics show men-with-men are less likely to be living with a child.\
-Differences in work/family arrangements?
-Pooling more common with a breadwinner/homemaker arrangement, might vary by couple-type.
-Relative earnings differences gendered, might also have implications.
+[**\<click\>**]{style="color: #E74C3C;"}\
+First RQ: \[read it\]\
+Descriptive statistics show men partnered with men are less likely to be living with a child.\
+Pooling is more common with a breadwinner/homemaker work family arrangements, which might vary by couple-type.
+Relative earnings differences is also gendered, which might have implications.
 
-Divsions of housework/childcare are different for same-gender couples than mixed-gender.
-Same true about financial integration?
+[**\<click\>**]{style="color: #E74C3C;"}\
+Second RQ \[read it\]\
+Divisions of housework/childcare are different for same-gender couples than mixed-gender.\
+Meanings of relationship traits are also different at times.\
+Wondering if the same is true about financial integration.
 :::
 :::
 
@@ -120,6 +129,14 @@ National Couples’ Health and Time Study 2020-2021
 doi: [10.3886/ICPSR38417.v6](https://www.icpsr.umich.edu/web/DSDR/studies/38417)
 :::
 
+::: {.content-visible when-profile="speaker"}
+::: notes
+Using data from NCHAT, which is nationally representative of U.S. partnered adults.\
+Find out more about the sample by going to the DOI shown.\
+Most important for our purposes, is that the survey over-sampled same-gender couples so we have an adequate sample size.
+:::
+:::
+
 ## Key Variables
 
 ::: {.incremental .highlight-last}
@@ -128,6 +145,17 @@ doi: [10.3886/ICPSR38417.v6](https://www.icpsr.umich.edu/web/DSDR/studies/38417)
 -   **Couple Type**: <br> (1) Man with woman, (2) Woman with man, (3) Man with man, and (4) Woman with woman
 
 -   **Marital Status**: <br> (1) Cohabiting (2) Married\
+
+-   **Work-Family Arrangement**: <br> (1) Both full-time (2) Full-time/part-time (3) Full-time/not employed\
+:::
+
+::: {.content-visible when-profile="speaker"}
+::: notes
+[**\<click\>**]{style="color: #E74C3C;"}\
+[**\<click\>**]{style="color: #E74C3C;"}\
+[**\<click\>**]{style="color: #E74C3C;"}\
+[**\<click\>**]{style="color: #E74C3C;"}\
+:::
 :::
 
 ## Relationship Quality Scales
@@ -170,6 +198,9 @@ doi: [10.3886/ICPSR38417.v6](https://www.icpsr.umich.edu/web/DSDR/studies/38417)
 
 ::: {.content-visible when-profile="speaker"}
 ::: notes
+Constructed 3 relationship scales.\
+**Instability** test if stability is different based on subjective measures compared with marital status.\
+2 scales of relationships quality: **Dissatisfaction** **Negativity**\
 The test of the interitem correlations for each of the three scales showed a Cronbach’s α level greater than .82.
 :::
 :::
@@ -193,7 +224,7 @@ The test of the interitem correlations for each of the three scales showed a Cro
 :::
 
 ::: aside
-N = 3,348; weighted %/mean; (SD)
+N = 3,348; weighted %s and means; (SD)
 :::
 
 ##  {#table02-id data-menu-title="Gap persists"}
@@ -234,6 +265,19 @@ Following figures show predicted probabilities of pooling from interaction effec
 As shown in this figure, woman-woman married couples are less likely than mixed-gender couples to pool all finances, whereas cohabiting couples of all types are less likely to pool all finances.
 :::
 :::
+
+##  {#fig0A-id data-menu-title="Work-family Arrangements"}
+
+<h3>Take-away statement here</h3>
+
+[![](../images/figA.png){fig-align="center" width="100%"}](https://github.com/jrpepin/NCHAT_pooling/blob/main/images/figA.png)
+
+::: {.content-visible when-profile="speaker"}
+::: notes
+As shown in this figure...
+:::
+:::
+
 
 ##  {#fig02-id data-menu-title="Quality gap"}
 
