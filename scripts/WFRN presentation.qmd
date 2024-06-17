@@ -12,6 +12,8 @@ format:
     controls: true
     theme: [default, custom.scss]
     slide-number: c
+revealjs-plugins:
+  - pointer
 embed-resources: true
 filters:
     - openlinksinnewpage
@@ -128,7 +130,7 @@ doi: [10.3886/ICPSR38417.v6](https://www.icpsr.umich.edu/web/DSDR/studies/38417)
 -   **Marital Status**: <br> (1) Cohabiting (2) Married\
 :::
 
-## Relationship Quality Measures
+## Relationship Quality Scales
 
 <br>
 
@@ -191,7 +193,7 @@ The test of the interitem correlations for each of the three scales showed a Cro
 :::
 
 ::: aside
-N = 3,348; weighted %; weighted mean (SD)
+N = 3,348; weighted %/mean; (SD)
 :::
 
 ##  {#table02-id data-menu-title="Gap persists"}
