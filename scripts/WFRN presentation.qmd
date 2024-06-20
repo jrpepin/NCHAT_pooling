@@ -298,7 +298,7 @@ Before I move on to the relationship scales, I want to mention here that I also 
 ::: notes
 When we look at the probability of pooling and average levels of instability, dissatisfaction, and negativity, so holding these constant at the average, a similar story emerges.\
 Woman-woman couples remained statistically less likely than mixed-gender couples to report full financial pooling.\
-Hint of a lower probability for man-man couples, but the standard errors are larger, meaning there is likely greater variation, but also this was a smaller sub population.
+Hint of a lower probability for man-man couples, but the standard errors are larger, meaning there is likely greater variation.
 
 So far, this is a story of differences in intercepts.\
 Let's take a look at variation in slopes.
@@ -319,7 +319,9 @@ Moving to the middle panel, the same pattern is present for the relationship dis
 Among men partnered with men, higher levels of dissatisfaction were associated with greater odds of pooling money.\
 
 In the final panel on the right, we see negativity and pooling money showed a positive rather than negative association, across all couple types.\
-This seems counter to theory, which makes us wonder if it says something about the directionality of the association?
+  
+The positive slopes are counter to theory, which makes us wonder if it says something about the directionality of the association?  
+Could it be that pooling finances leads to more negative interactions among all couple types and dissatisfaction among men-men couples?  
 :::
 :::
 
@@ -332,7 +334,7 @@ This seems counter to theory, which makes us wonder if it says something about t
 
 ::: {.content-visible when-profile="speaker"}
 ::: notes
-Using mixed-gender couples’ level of financial integration as a reference point may provide misleading interpretations of the stability and relationship quality among same-gender couples.
+Using mixed-gender couples’ level of financial integration as a reference point may provide misleading interpretations regarding the stability and relationship quality among same-gender couples.
 :::
 :::
 
