@@ -232,7 +232,7 @@ N = 3,348; weighted %s and means; (SD)
 ::: notes
 This table show the weighted descriptive statistics of the sample.\
 Different-gender couples are more likely to be married and parents than same-gender couples.\
-Respondents in different gender couples are also more likely to report they are White.\
+Respondents in different gender couples are less likely to report they are White.\
 There's not a clear pattern of differences in the proportion of dual-earners.\
 For the relationship scales, bigger numbers equal worse outcomes.\
 Across couple type, they look fairly similar, maybe slightly elevated scores among same-gender couples.
