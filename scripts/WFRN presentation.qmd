@@ -58,7 +58,7 @@ c_palette <- c("#18BC9C",
 
 ::: {.content-visible when-profile="speaker"}
 ::: notes
-Drawing on investment model of commitment theory\
+The investment model of commitment theory suggests\
 [**\<click\>**]{style="color: #E74C3C;"}\
 - desire to stay in a relationship is reflected in individuals’ investments in the relationship\
 - Studies show couples with greater relationship certainty were more likely to pool their incomes, regardless of their marital status.\
@@ -100,15 +100,18 @@ Brings up some questions about potential differences in stability and quality of
 ::: notes
 [**\<click\>**]{style="color: #E74C3C;"}\
 First RQ: \[read it\]\
-Descriptive statistics show men partnered with men are less likely to be living with a child.\
-Pooling is more common with a breadwinner/homemaker work family arrangements, which might vary by couple-type.
-Relative earnings differences is also gendered, which might have implications.
+Descriptive differences in the subpopulations:\
+- men partnered with men are less likely to be living with a child.\
+- Pooling is more common in breadwinner/homemaker work family arrangements, which might vary by couple-type.\
+- Relative earnings differences is also gendered, which might have implications for pooling.\
 
 [**\<click\>**]{style="color: #E74C3C;"}\
 Second RQ \[read it\]\
 Divisions of housework/childcare are different for same-gender couples than mixed-gender.\
 Meanings of relationship traits are also different at times.\
 Wondering if the same is true about financial integration.
+
+In sum, we're asking about prevelance differences and implication differences.
 :::
 :::
 
@@ -145,13 +148,10 @@ Most important for our purposes, is that the survey over-sampled same-gender cou
 -   **Couple Type**: <br> (1) Man with woman, (2) Woman with man, (3) Man with man, and (4) Woman with woman
 
 -   **Marital Status**: <br> (1) Cohabiting (2) Married\
-
--   **Work-Family Arrangement**: <br> (1) Both full-time (2) Full-time/part-time (3) Full-time/not employed\
 :::
 
 ::: {.content-visible when-profile="speaker"}
 ::: notes
-[**\<click\>**]{style="color: #E74C3C;"}\
 [**\<click\>**]{style="color: #E74C3C;"}\
 [**\<click\>**]{style="color: #E74C3C;"}\
 [**\<click\>**]{style="color: #E74C3C;"}\
@@ -200,7 +200,7 @@ Most important for our purposes, is that the survey over-sampled same-gender cou
 ::: notes
 Constructed 3 relationship scales.\
 **Instability** test if stability is different based on subjective measures compared with marital status.\
-2 scales of relationships quality: **Dissatisfaction** **Negativity**\
+2 scales of relationship quality: **Dissatisfaction** **Negativity**\
 The test of the interitem correlations for each of the three scales showed a Cronbach’s α level greater than .82.
 :::
 :::
@@ -213,18 +213,30 @@ The test of the interitem correlations for each of the three scales showed a Cro
 
 ::: {style="font-size: 65%;"}
 |                        | Man with woman | Woman with man | Man with man | Woman with woman |
-|---------------|---------------|---------------|---------------|---------------|
+|----------------|--------------|--------------|--------------|--------------|
 | Married                | 82             | 81             | 52           | 67               |
 | Parent                 | 44             | 47             | 4.1          | 21               |
 | White (NH)             | 55             | 57             | 68           | 65               |
-| Full-time/not employed | 27             | 31             | 25           | 18               |
+| Both full-time         | 46             | 41             | 47           | 44               |
 | Instability (0-16)     | 2.12 (3.10)    | 2.11 (3.25)    | 2.95 (3.52)  | 2.36 (2.98)      |
 | Dissatisfaction (0-21) | 5.7 (4.5)      | 6.1 (4.7)      | 6.7 (4.2)    | 6.3 (5.2)        |
 | Negativity (0-15)      | 3.1 (3.2)      | 3.2 (3.6)      | 3.4 (3.3)    | 3.7 (3.2)        |
+| Observations           | *(N = 1,133)*  | *(N = 1,281)*  | *(N = 573)*  | *(N = 361)*      |
 :::
 
 ::: aside
 N = 3,348; weighted %s and means; (SD)
+:::
+
+::: {.content-visible when-profile="speaker"}
+::: notes
+This table show the weighted descriptive statistics of the sample.\
+Different-gender couples are more likely to be married and parents than same-gender couples.\
+Respondents in different gender couples are also more likely to report they are White.\
+There's not a clear pattern of differences in the proportion of dual-earners.\
+For the relationship scales, bigger numbers equal worse outcomes.\
+Across couple type, they look fairly similar, maybe slightly elevated scores among same-gender couples.
+:::
 :::
 
 ##  {#table02-id data-menu-title="Gap persists"}
@@ -249,8 +261,9 @@ adjusted for demographic characteristics, relationship stability, and relationsh
 
 ::: {.content-visible when-profile="speaker"}
 ::: notes
-Logistic regression results show same-gender couples remain less likely than mixed-gender couples to report full financial pooling, even after adjusting for demographic characteristics, relationship stability, and relationship quality scales.
-Following figures show predicted probabilities of pooling from interaction effects from these full models (all controls).
+Answering our first research question, logistic regression results show same-gender couples remain less likely than mixed-gender couples to report full financial pooling, even after adjusting for differences in demographic characteristics, relationship stability, and relationship quality scales.
+
+In the following figures, we show predicted probabilities of pooling from interaction effects from these full models (all controls).
 :::
 :::
 
@@ -258,39 +271,35 @@ Following figures show predicted probabilities of pooling from interaction effec
 
 <h3>Married women-women couples less likely to pool all money than mixed-gender couples</h3>
 
+[*Probability of full pooling*]{style="color: #999999;"}
+
 [![](../images/fig01.png){fig-align="center" width="100%"}](https://github.com/jrpepin/NCHAT_pooling/blob/main/images/fig01.png)
 
 ::: {.content-visible when-profile="speaker"}
 ::: notes
-As shown in this figure, woman-woman married couples are less likely than mixed-gender couples to pool all finances, whereas cohabiting couples of all types are less likely to pool all finances.
+If you look at the green bar all the way to your right, you'll see about 45% of woman-woman married couples are expected to fully pool their money, after adjusting for all model controls.
+
+As shown in this figure, this is a statistically significantly lower probability than mixed-gendered married couples.\
+Cohabiting couples of all types are less likely to pool all finances, compared with their married counterparts.
+
+Before I move on to the relationship scales, I want to mention here that I also looked at differences by work-family arrangements, and didn't find much variation by couple-type.
 :::
 :::
-
-##  {#fig0A-id data-menu-title="Work-family Arrangements"}
-
-<h3>Take-away statement here</h3>
-
-[![](../images/figA.png){fig-align="center" width="100%"}](https://github.com/jrpepin/NCHAT_pooling/blob/main/images/figA.png)
-
-::: {.content-visible when-profile="speaker"}
-::: notes
-As shown in this figure...
-:::
-:::
-
 
 ##  {#fig02-id data-menu-title="Quality gap"}
 
-<h3>Women-women couples less likely to pool all money than mixed-gender couples</h3>
+<h3>Women-women couples are less likely to pool all money than mixed-gender couples</h3>
 
-*at average levels of \_\_\_\_\_\_\_\_\_\_*
+[*at average levels of \_\_\_\_\_\_\_\_\_\_*]{style="color: #999999;"}
 
 [![](../images/fig02.png){fig-align="center" width="100%"}](https://github.com/jrpepin/NCHAT_pooling/blob/main/images/fig02.png)
 
 ::: {.content-visible when-profile="speaker"}
 ::: notes
-Similar pattern emerges when we look at pooling and average levels of instability, dissatisfaction, and negativity.\
-Woman-woman couples remained less likely than mixed-gender couples to report full financial pooling.\
+When we look at the probability of pooling and average levels of instability, dissatisfaction, and negativity, so holding these constant at the average, a similar story emerges.\
+Woman-woman couples remained statistically less likely than mixed-gender couples to report full financial pooling.\
+Hint of a lower probability for man-man couples, but the standard errors are larger, meaning there is likely greater variation, but also this was a smaller sub population.
+
 So far, this is a story of differences in intercepts.\
 Let's take a look at variation in slopes.
 :::
@@ -304,24 +313,55 @@ Let's take a look at variation in slopes.
 
 ::: {.content-visible when-profile="speaker"}
 ::: notes
-Not too surprising, for all couples, the odds of pooling money were significantly lower with greater instability.\
-The same pattern is present for the relationship dissatisfaction scale, with one exception.\
+Starting with the first panel on your left, it's not surprising, for all couples, the odds of pooling money were significantly lower with greater instability.\
+
+Moving to the middle panel, the same pattern is present for the relationship dissatisfaction scale, with one exception.\
 Among men partnered with men, higher levels of dissatisfaction were associated with greater odds of pooling money.\
-Negativity and pooling money showed the opposite pattern for all couple types.
-Negativity was positively associated for all couple-types.\
-Does this say something about the directionality?
+
+In the final panel on the right, we see negativity and pooling money showed a positive rather than negative association, across all couple types.\
+This seems counter to theory, which makes us wonder if it says something about the directionality of the association?
 :::
 :::
 
 # Implications
 
 ::: {style="font-size: 80%;"}
--   Couple-type gap in pooling is not explained by demographic differences, nor necessarily indicative of lower relationship stability and quality.\
--   Relationship stability and quality might be differently associated with financial integration among all couples.\
+-   Couple-type gap in pooling is [**not explained by demographic differences**]{style="color: #E74C3C;"}, nor necessarily indicative of lower relationship stability and quality.\
+-   Relationship stability and quality might be [**differently associated**]{style="color: #E74C3C;"} with financial integration among all couples.\
 :::
 
 ::: {.content-visible when-profile="speaker"}
 ::: notes
 Using mixed-gender couples’ level of financial integration as a reference point may provide misleading interpretations of the stability and relationship quality among same-gender couples.
+:::
+:::
+
+# Thank you!
+
+::: columns
+::: {.column width="65%"}
+Joanna R. Pepin\
+*University of Toronto*
+
+<br>
+
+Chandler Fairbanks\
+*University at Buffalo (SUNY)*
+:::
+
+::: {.column width="35%"}
+[***Slides:***]{style="color: #E74C3C;"}\
+![](../images/qr-code.png){fig-align="center" width="100%"}
+:::
+:::
+
+##  {#fig0A-id data-menu-title="Work-family Arrangements"}
+
+<h3>Probability of full financial pooling by work-family arrangement</h3>
+
+[![](../images/figA.png){fig-align="center" width="100%"}](https://github.com/jrpepin/NCHAT_pooling/blob/main/images/figA.png)
+
+::: {.content-visible when-profile="speaker"}
+::: notes
 :::
 :::
